@@ -8,8 +8,8 @@
     // ── Config ──
     const CFG = {
         username: 'AbdullahProBD',
-        hiddenRepos: ['abdullahprobd', 'abdullahprobd.github.io'],
-        cacheKey: 'gh_portfolio_v12',
+        hiddenRepos: ['abdullahprobd', 'abdullahprobd.github.io', 'd-code'],
+        cacheKey: 'gh_portfolio_v13',
         cacheTTL: 5 * 60 * 1000,
         api: 'https://api.github.com',
         pagesBase: 'https://abdullahprobd.github.io',
